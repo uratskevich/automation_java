@@ -3,3 +3,10 @@ wall of shields
 standing strong
 on this their chosen battle field
 
+<<<<<<< HEAD
+Some content
+--------------------------
+=======
+Form the lines
+Shield by shield
+>>>>>>> 2a85064f7229468619a35b71adfda9a6d47a8e9d
